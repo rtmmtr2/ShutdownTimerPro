@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ShutdownTimerPro/ShutdownTimerPro.vcxproj" />
+  <Project Path="ShutdownTimerPro/ShutdownTimerPro.vcxproj" Id="18caa915-c286-4c4e-ad1a-05249ddf36ef" />
 </Solution>
